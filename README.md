@@ -161,7 +161,7 @@ Using React and Rails to create an asynchronous full stack application with test
 - [ Capstone Prep Checklist ](./capstone/prep-checklist.md)
 - [ Capstone Requirements ](./capstone/requirements.md)
 - [ Capstone Schedules ](./capstone/schedule.md)
-- [ Rails has_many_through ](./capstone/has_many_through/README.md)
+- [ Rails has_many_through ](./capstone/has_many_through.md)
 - [ Modifying Devise ](./capstone/modifying-devise.md)
 
 
